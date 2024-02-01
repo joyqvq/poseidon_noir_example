@@ -1,10 +1,6 @@
 # poseidon-noir-example
 
-Install noir
-
-```bash
-
-```
+Install noir: https://noir-lang.org/docs/getting_started/installation/
 
 Run example
 ```
